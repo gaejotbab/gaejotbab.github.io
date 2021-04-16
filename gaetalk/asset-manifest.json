@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gaetalk/static/css/main.9075363a.chunk.css",
-    "main.js": "/gaetalk/static/js/main.ed7eeb21.chunk.js",
-    "runtime-main.js": "/gaetalk/static/js/runtime-main.9f829209.js",
-    "static/js/2.e1442b82.chunk.js": "/gaetalk/static/js/2.e1442b82.chunk.js",
-    "static/js/3.12855b32.chunk.js": "/gaetalk/static/js/3.12855b32.chunk.js",
-    "index.html": "/gaetalk/index.html",
-    "static/js/2.e1442b82.chunk.js.LICENSE.txt": "/gaetalk/static/js/2.e1442b82.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.9075363a.chunk.css",
+    "main.js": "/static/js/main.9c2951cd.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.f3d6d6a5.js",
+    "static/js/2.131ad00f.chunk.js": "/static/js/2.131ad00f.chunk.js",
+    "static/js/3.12855b32.chunk.js": "/static/js/3.12855b32.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.131ad00f.chunk.js.LICENSE.txt": "/static/js/2.131ad00f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f829209.js",
-    "static/js/2.e1442b82.chunk.js",
+    "static/js/runtime-main.f3d6d6a5.js",
+    "static/js/2.131ad00f.chunk.js",
     "static/css/main.9075363a.chunk.css",
-    "static/js/main.ed7eeb21.chunk.js"
+    "static/js/main.9c2951cd.chunk.js"
   ]
 }

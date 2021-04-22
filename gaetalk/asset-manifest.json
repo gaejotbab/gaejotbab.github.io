@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gaetalk/static/css/main.9075363a.chunk.css",
-    "main.js": "/gaetalk/static/js/main.9c2951cd.chunk.js",
+    "main.css": "/gaetalk/static/css/main.7e2fbabe.chunk.css",
+    "main.js": "/gaetalk/static/js/main.1ac85b30.chunk.js",
     "runtime-main.js": "/gaetalk/static/js/runtime-main.9f829209.js",
     "static/js/2.e1442b82.chunk.js": "/gaetalk/static/js/2.e1442b82.chunk.js",
     "static/js/3.12855b32.chunk.js": "/gaetalk/static/js/3.12855b32.chunk.js",
@@ -11,7 +11,7 @@
   "entrypoints": [
     "static/js/runtime-main.9f829209.js",
     "static/js/2.e1442b82.chunk.js",
-    "static/css/main.9075363a.chunk.css",
-    "static/js/main.9c2951cd.chunk.js"
+    "static/css/main.7e2fbabe.chunk.css",
+    "static/js/main.1ac85b30.chunk.js"
   ]
 }
